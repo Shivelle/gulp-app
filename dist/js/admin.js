@@ -1,0 +1,1 @@
+$(document).ready(function(){$("a").click(function(n){alert("hi from admin.js"),n.preventDefault()})});
